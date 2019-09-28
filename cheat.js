@@ -13,4 +13,4 @@ setInterval(() => {
         input.value = highlight[0].innerText + " ";
         input.dispatchEvent(event)
     }
-}, 100);
+});
